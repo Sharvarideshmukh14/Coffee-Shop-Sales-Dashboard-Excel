@@ -34,8 +34,7 @@ To analyze coffee shop sales data and answer key business questions such as:
 - Store Location Filter (Astoria, Hell’s Kitchen, Lower Manhattan)
 
 ## 📂 Files Included
-- `Coffee_Shop_Sales_Dashboard.xlsx` – Interactive Excel dashboard
-- `dashboard_preview.png` – Dashboard screenshot
+- 'Coffee shop Dashboard.png' - Dashboard screenshot
 
 👩‍💻 Skills: Excel, SQL, Python, Power BI  
 
