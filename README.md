@@ -36,7 +36,7 @@ To analyze coffee shop sales data and answer key business questions such as:
 ## 📊 Dashboard Preview
 
 ![Coffee Shop Sales Dashboard](dashboard_preview.png)
-
+![Coffee Shop Sales Dashboard](dashboard_preview1.png)
 
 👩‍💻 Skills: Excel, SQL, Python, Power BI  
 
